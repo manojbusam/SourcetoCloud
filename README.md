@@ -1,5 +1,13 @@
 # Source-to-Cloud Data Transfer
 
+| Tool                                    | Version/Requirements       |
+|-----------------------------------------|----------------------------|
+| [![Python](https://img.shields.io/badge/Python-3.6+-blue)](https://www.python.org/downloads/) | - |
+| [![boto3](https://img.shields.io/badge/boto3-required-green)](https://pypi.org/project/boto3/) | Required Library |
+| [![google-cloud-storage](https://img.shields.io/badge/google--cloud--storage-required-green)](https://pypi.org/project/google-cloud-storage/) | Required Library |
+| [![azure-storage-blob](https://img.shields.io/badge/azure--storage--blob-required-green)](https://pypi.org/project/azure-storage-blob/) | Required Library |
+
+
 This repository provides Python scripts demonstrating how to copy data from a local source to cloud storage services: AWS S3, Google Cloud Storage (GCS), and Azure Blob Storage.
 
 ## Files
