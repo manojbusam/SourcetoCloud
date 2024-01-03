@@ -1,7 +1,3 @@
-Absolutely! Here's a sample README.md file for your Source-to-Cloud repository, showcasing Python scripts demonstrating copying data to S3, Google Cloud Storage, and Azure Blob Storage:
-
----
-
 # Source-to-Cloud Data Transfer
 
 This repository provides Python scripts demonstrating how to copy data from a local source to cloud storage services: AWS S3, Google Cloud Storage (GCS), and Azure Blob Storage.
